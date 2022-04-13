@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ac359ac-c5e0-427b-9b45-67c200b3f1f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy-docker/deploy-image.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy-docker/inventory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sqrtFun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5ac359ac-c5e0-427b-9b45-67c200b3f1f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +43,7 @@
       <updated>1649842376572</updated>
       <workItem from="1649842377757" duration="319000" />
       <workItem from="1649842707282" duration="172000" />
+      <workItem from="1649842887639" duration="324000" />
     </task>
     <servers />
   </component>

@@ -13,7 +13,7 @@ public class mainClass {
 
 
         logger.info("Square root function ");
-        System.out.println("Enter number");
+        System.out.println("Enter a number");
         Scanner sc=new Scanner(System.in);
 
         inp=sc.nextDouble();
