@@ -1,1 +1,4 @@
 localhost ansible_user=suchi ansible localhost
+
+[ubuntu]
+172.17.0.3 ansible_user = a5e70ecadfce
