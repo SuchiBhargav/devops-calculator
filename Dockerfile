@@ -1,5 +1,5 @@
 FROM openjdk:8
-COPY  ./target/devops-calculator-1.0-SNAPSHOT-jar-with-dependencies.jar ./
+COPY  target/devops-calculator-1.0-SNAPSHOT-jar-with-dependencies.jar ./
 WORKDIR ./
 CMD ["java", "-jar", "devops-calculator-1.0-SNAPSHOT-jar-with-dependencies.jar"]
 
