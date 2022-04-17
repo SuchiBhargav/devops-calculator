@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="5ac359ac-c5e0-427b-9b45-67c200b3f1f5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy-docker/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/deploy-docker/inventory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sqrtFun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sqrtFun.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +41,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RunManager">
+    <configuration name="mainClass" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mainClass" />
+      <module name="devops-calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +62,10 @@
       <workItem from="1649842707282" duration="172000" />
       <workItem from="1649842887639" duration="4523000" />
       <workItem from="1650016162629" duration="7470000" />
+      <workItem from="1650097899366" duration="4418000" />
+      <workItem from="1650126363289" duration="2088000" />
+      <workItem from="1650200685265" duration="1000" />
+      <workItem from="1650208651966" duration="389000" />
     </task>
     <task id="LOCAL-00001" summary="jar file updated">
       <created>1650020783567</created>
